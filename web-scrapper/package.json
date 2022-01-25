@@ -1,0 +1,29 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "An experiment with web scraping using cheerio & puppeteer.  My use case was to scrape accounts which are known to teach cybersecurity.",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "ping": "^0.2.3",
+    "prettier": "^2.0.5",
+    "puppeteer": "^3.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "web scrapping",
+    "javascript",
+    "cheerio",
+    "puppeteer"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josh selfe",
+  "license": "ISC"
+}
